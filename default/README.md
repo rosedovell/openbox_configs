@@ -1,3 +1,4 @@
+```
 W-t: terminator
 W-c: mousepad
 W-e: Thunar
@@ -19,3 +20,4 @@ C-A-S-Left: Send to Desktop Left
 C-A-S-Right: Send to Desktop Right
 W-space: gmrun
 W-l: lock screen
+```
