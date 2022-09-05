@@ -1,3 +1,19 @@
+## Requirements
+```
+terminator
+Thunar
+mousepad
+arandr
+pavucontrol
+xclock
+i3lock
+compton
+gmrun
+nitrogen
+```
+
+## Shortcuts
+
 ```
 W-t: terminator
 W-c: mousepad
