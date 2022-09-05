@@ -1,0 +1,5 @@
+#!/bin/bash
+
+xclock -fg white -bg black -d -strftime '%I:%M %a %D' &
+sleep 2
+pkill xclock
